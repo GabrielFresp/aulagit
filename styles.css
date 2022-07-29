@@ -1,0 +1,50 @@
+*{
+    box-sizing: border-box;
+}
+
+html{
+    margin:0px;
+}
+
+body {
+    font-family: "Open Sans", sans-serif;
+    
+}
+
+article{
+    margin: 30px;
+}
+
+.font-style-h1{
+    font-size: 32px;
+    font-weight: bold;
+}
+
+a:link {
+    color: blue;
+    background-color: transparent;
+    text-decoration: underline;
+}
+
+a:visited {
+    color: blue;
+    background-color: transparent;
+    text-decoration: underline;
+}
+
+a:hover {
+    color: blue;
+    background-color: transparent;
+    text-decoration: underline;
+}
+
+a:active {
+    color: red;
+    background-color: transparent;
+    text-decoration: underline;
+}
+
+footer{
+    margin-left:30px;
+    margin-bottom: 60px;
+}
